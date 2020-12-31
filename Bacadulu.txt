@@ -1,0 +1,6 @@
+1. Extract e-money.zip
+2. Pindahi ke htdocs
+3. Import database.zip ke database klen
+4. Kemudian buka file database.php di folder e-money\application\config\database.php pake text editor
+5. Sesuaikan nama database di mysql ama nama database di file database.php (line 13)
+6. Tes jalankan 
